@@ -6,6 +6,8 @@ My research interests are Robot Learning and Computer Vision 🤖
 
 Have fun to see my projects below, [publications](https://scholar.google.com/citations?user=gMvLIDUAAAAJ&hl=en&oi=ao) and [personal website](https://elicassion.github.io/) for more details.
 
+*I am always hungary, both physically 🥘 and intellectually 💡*
+
 <!--
 **elicassion/elicassion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
