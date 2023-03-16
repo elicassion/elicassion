@@ -4,7 +4,7 @@ I'm Jinghuan pursuing a CS Ph.D. at Stony Brook University.
 
 My research interests are Robot Learning and Computer Vision 🤖
 
-Have fun to see my projects below or my [personal website](https://elicassion.github.io/) for more details.
+Have fun to see my projects below, [publications](https://scholar.google.com/citations?user=gMvLIDUAAAAJ&hl=en&oi=ao) and [personal website](https://elicassion.github.io/) for more details.
 
 <!--
 **elicassion/elicassion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
