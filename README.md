@@ -1,6 +1,6 @@
 ### Hi there,
 
-I'm Jinghuan pursuing a CS Ph.D. at Stony Brook University.
+I'm a Research Scientist at [Boston Dynamics AI Institute](https://theaiinstitute.com/). I obtained my CS Ph.D. at Stony Brook University.
 
 My research interests are **Robot Learning** and **Computer Vision** 🤖
 
