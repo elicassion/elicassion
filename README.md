@@ -1,6 +1,6 @@
 ### Hi there,
 
-I'm a Research Scientist at [Boston Dynamics AI Institute](https://theaiinstitute.com/). I obtained my CS Ph.D. at Stony Brook University.
+I'm a Research Scientist at [Robotics and AI Institute](https://rai-inst.com/). I obtained my CS Ph.D. at Stony Brook University.
 
 My research interests are **Robot Learning** and **Computer Vision** 🤖
 
